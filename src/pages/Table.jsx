@@ -22,7 +22,7 @@ function Table() {
           <table className="w-full border-collapse">
             <thead>
               <tr className="bg-violet-100">
-                <th className="border p-3">No</th>
+                <th className="border p-3">No.</th>
                 <th className="border p-3">Name</th>
                 <th className="border p-3">Age</th>
                 <th className="border p-3">Gender</th>
